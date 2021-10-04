@@ -1,1 +1,1 @@
-# bmi_prediction_project
+# BMI
